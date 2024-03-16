@@ -1,6 +1,7 @@
  # creamos un usario prueba para acceder al login 
  # comandos para levantar el proyecto
  composer install
+ # crear la base de datos :  back_db
  php artisan key:generate
  php artisan migrate
  # un sider que cree para prueba 
@@ -28,6 +29,6 @@
 #  Modificacion del archivo cors.php para que el front pueda enlazarse con el backend con el middleware Fruitcake 
 # Para la autorizacion se uso Beaer (generacion de TOKEN)
 #  Migraciones y herramientas postman para probar los servicios 
-
+# LA Base de datos esta en el archivo back_db.sql pero se puede hacer la migracion si solo se crea vacio
 
 
