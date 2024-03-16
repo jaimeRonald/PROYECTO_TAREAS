@@ -12,7 +12,7 @@
 # servicio CERRAR SECION
   url : (http://127.0.0.1:8000/api/auth/logout1) metodo POST
   # servicio INICIAR SECION
-  # SE TOMA EN CUENTA SE PUEDE MEJORAR EL FRONT USANODO LOS TOKEN GENERADOS AQUI 
+  # SE TOMA EN CUENTA SE PUEDE MEJORAR EL FRONT USANODO LOS TOKEN GENERADOS EN ESTE SERIVICIO 
   url : (http://127.0.0.1:8000/api/auth/login1) metodo POST
 
  # servicio listar tareas 
