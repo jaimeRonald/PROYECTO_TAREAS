@@ -25,7 +25,7 @@
 
 # se uso : 
 # El middleware sanctum para proteger las rutas de los servicios 
-#  Modificacion del archivo cors para qeu el front pueda enlazarse con el backend con el middleware Fruitcake 
+#  Modificacion del archivo cors.php para que el front pueda enlazarse con el backend con el middleware Fruitcake 
 # Para la autorizacion se uso Beaer (generacion de TOKEN)
 #  Migraciones y herramientas postman para probar los servicios 
 
